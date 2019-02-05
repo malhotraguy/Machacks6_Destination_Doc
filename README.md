@@ -1,5 +1,5 @@
 # Machacks6_Destination_Doc
-Hackathon Project for McHacks 6
+Hackathon Project for McHacks 6(Winner of Microsoft challenge:https://devpost.com/software/destination-doc)
 
 ## Inspiration
 We were inspired to reduce the amount of time it takes to seek medical attention. By directing patients immediately to a doctor specific to their needs, one may reduce the wait time commonly associated with seeking medical aid. 
